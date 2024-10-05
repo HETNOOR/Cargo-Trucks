@@ -19,13 +19,13 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		CF3F0BAA2CAC1CD200398247 /* Cargo Trucks test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Cargo Trucks test"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CF3F0BAA2CAC1CD200398247 /* Cargo Trucks */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Cargo Trucks"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		CF3F0BAC2CAC1CD200398247 /* Cargo Trucks test */ = {
+		CF3F0BAC2CAC1CD200398247 /* Cargo Trucks */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Cargo Trucks test";
+			path = "Cargo Trucks";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -44,7 +44,7 @@
 		CF3F0BA12CAC1CD200398247 = {
 			isa = PBXGroup;
 			children = (
-				CF3F0BAC2CAC1CD200398247 /* Cargo Trucks test */,
+				CF3F0BAC2CAC1CD200398247 /* Cargo Trucks */,
 				CF3F0BAB2CAC1CD200398247 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -52,7 +52,7 @@
 		CF3F0BAB2CAC1CD200398247 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CF3F0BAA2CAC1CD200398247 /* Cargo Trucks test */,
+				CF3F0BAA2CAC1CD200398247 /* Cargo Trucks */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -60,9 +60,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		CF3F0BA92CAC1CD200398247 /* Cargo Trucks test */ = {
+		CF3F0BA92CAC1CD200398247 /* Cargo Trucks */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CF3F0BB12CAC1CD200398247 /* Build configuration list for PBXNativeTarget "Cargo Trucks test" */;
+			buildConfigurationList = CF3F0BB12CAC1CD200398247 /* Build configuration list for PBXNativeTarget "Cargo Trucks" */;
 			buildPhases = (
 				CF3F0BA62CAC1CD200398247 /* Sources */,
 				CF3F0BA72CAC1CD200398247 /* Frameworks */,
@@ -73,13 +73,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				CF3F0BAC2CAC1CD200398247 /* Cargo Trucks test */,
+				CF3F0BAC2CAC1CD200398247 /* Cargo Trucks */,
 			);
-			name = "Cargo Trucks test";
+			name = "Cargo Trucks";
 			packageProductDependencies = (
 			);
 			productName = "Cargo Trucks test";
-			productReference = CF3F0BAA2CAC1CD200398247 /* Cargo Trucks test */;
+			productReference = CF3F0BAA2CAC1CD200398247 /* Cargo Trucks */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -97,7 +97,7 @@
 					};
 				};
 			};
-			buildConfigurationList = CF3F0BA52CAC1CD200398247 /* Build configuration list for PBXProject "Cargo Trucks test" */;
+			buildConfigurationList = CF3F0BA52CAC1CD200398247 /* Build configuration list for PBXProject "Cargo Trucks" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -111,7 +111,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CF3F0BA92CAC1CD200398247 /* Cargo Trucks test */,
+				CF3F0BA92CAC1CD200398247 /* Cargo Trucks */,
 			);
 		};
 /* End PBXProject section */
@@ -270,7 +270,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		CF3F0BA52CAC1CD200398247 /* Build configuration list for PBXProject "Cargo Trucks test" */ = {
+		CF3F0BA52CAC1CD200398247 /* Build configuration list for PBXProject "Cargo Trucks" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CF3F0BAF2CAC1CD200398247 /* Debug */,
@@ -279,7 +279,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CF3F0BB12CAC1CD200398247 /* Build configuration list for PBXNativeTarget "Cargo Trucks test" */ = {
+		CF3F0BB12CAC1CD200398247 /* Build configuration list for PBXNativeTarget "Cargo Trucks" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CF3F0BB22CAC1CD200398247 /* Debug */,
